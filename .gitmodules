@@ -1,0 +1,6 @@
+[submodule "CycleGAN"]
+	path = CycleGAN
+	url = git@github.com:sappy-code-note/pytorch-CycleGAN-and-pix2pix.git
+[submodule "Self-Attention-GAN"]
+	path = Self-Attention-GAN
+	url = git@github.com:sappy-code-note/Self-Attention-GAN.git
